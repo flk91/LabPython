@@ -1,3 +1,7 @@
+# EQUAZIONI DI SECONDO GRADO
+# Presi in input i coefficienti di un'equazione di secondo grado, 
+# mostrare a video le soluzioni.
+# Per informazioni: https://www.youmath.it/lezioni/algebra-elementare/equazioni/68-equazioni-di-secondo-grado-ad-unincognita-come-si-risolvono.html
 
 import math
 

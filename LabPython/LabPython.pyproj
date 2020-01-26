@@ -53,6 +53,7 @@
   <ItemGroup>
     <Content Include="04-vettori\__pycache__\caricamento.cpython-37.pyc" />
     <Content Include="04-vettori\__pycache__\caricamento.cpython-38.pyc" />
+    <Content Include="readme.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
