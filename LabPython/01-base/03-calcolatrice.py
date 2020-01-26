@@ -1,3 +1,5 @@
+# Presi in input due numeri e un operatore, eseguire la corrispondente operazione aritmetica
+
 n1 = input("Digita un numero")
 n2= input("Digita un altro numero")
 oper = input("Scegliere un operatore [+ - * /]")

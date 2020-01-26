@@ -5,12 +5,12 @@ num=input("Digita un numero: ")
 #per sapere di quante cifre è il numero
 cifre = len(num)
 
-print(str(cifre), "cifre")
+print("Il numero è composto da", str(cifre), "cifre:\n")
 
 #converto il numero in int
 num=int(num)
 
-multipli = ("unità", "decine", "centinaia", "migliaia", "milioni")
+multipli = ("unità", "decine", "centinaia", "migliaia", "decine di migliaia", "centinaia di migliaia", "milioni", "decine di milioni", "centinaia di milioni", "miliardi")
 
 for i in range(1, cifre+1):
     p = 10**i
@@ -19,4 +19,4 @@ for i in range(1, cifre+1):
     print(str(int(q/p*10)), multipli[i-1])
 
 
-input("Premere invio per uscire...")
+input("\nPremere invio per uscire...")

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c89d198a-3152-48dc-a8b5-8a0036d12ac0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>03-funzioni\amicabili.py</StartupFile>
+    <StartupFile>01-base\07-scomposizione.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
